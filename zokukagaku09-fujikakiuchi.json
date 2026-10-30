@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/fujikakiuchi",
  "yomi": "ふじかきうちしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集",
+  "era": "江戸後期",
+  "author": "本居大平（1756〜1833）",
+  "desc": "本居大平の長歌を集めたもの。天の香具山に登る長歌などを収め、安永から寛政にかけての年記が見える。"
+ },
  "editions": [
   {
    "pid": "993387",
